@@ -28,4 +28,6 @@ Forms can be customized extensively to suit specific requirements by defining cu
 Simplifies and standardizes the process of handling user input, reducing code duplication and enhancing maintainability.
 Provides a secure and structured way to handle form data, reducing the risk of vulnerabilities and errors in user input processing.
 Django Forms streamline the process of collecting and handling user input, contributing significantly to the efficiency, security, and user experience of web applications.
+
+
 ![image](https://github.com/swaroopb2977/DJango_Forms-/assets/79194630/d03e8689-6fde-4159-b634-eb0c3155b662)
